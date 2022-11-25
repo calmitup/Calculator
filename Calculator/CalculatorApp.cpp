@@ -16,7 +16,7 @@ int main()
 
 
 	char oper = '+';
-	    cout << "Paddans Kalkulator \n";
+	    cout << "Paddans asdo+sajkdioasjdoijasiodjioas Kalkulator \n";
 		cout << "Vad vill du räkna idag? \n";
 
 	
