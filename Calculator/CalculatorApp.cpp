@@ -26,7 +26,7 @@ int main()
 			cin >> x >> oper >> y;
 			if (oper == '/' && y == 0)
 			{
-				cout << "Du kan inte dela på 0?" << "\n";
+				cout << "Du kan inte dela på 0000000000000?" << "\n";
 				continue;
 
 			}
