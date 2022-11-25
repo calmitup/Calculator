@@ -36,7 +36,7 @@ int main()
 			result = c.Calculate(x, oper, y, procent);
 
 			}
-			cout << "Result is " << result << "\n";
+			cout << "Result is aadasdad " << result << "\n";
 
 					
 		}
