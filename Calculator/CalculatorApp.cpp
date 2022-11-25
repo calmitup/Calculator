@@ -26,7 +26,7 @@ int main()
 			cin >> x >> oper >> y;
 			if (oper == '/' && y == 0)
 			{
-				cout << "Kan ens Matte?" << "\n";
+				cout << "Du kan inte dela med 0.?" << "\n";
 				continue;
 
 			}
